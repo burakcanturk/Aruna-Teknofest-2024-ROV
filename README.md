@@ -14,10 +14,10 @@ cd aruna_codes/aruna_joystick
 pip3 install -r requirements.txt
 ```
 
-## G-Rov PCB Card:
+## Aruna PCB Card:
 
 **Front:**<br>
-<img src="grov_pcb_card/grov_pcb_card_front.png" alt="Connections tab" width="300"/>
+<img src="aruna_pcb_card/aruna_pcb_card_front.png" alt="Connections tab" width="300"/>
 
 **Back:**<br>
 <img src="grov_pcb_card/grov_pcb_card_back.png" alt="Connections tab" width="300"/>
