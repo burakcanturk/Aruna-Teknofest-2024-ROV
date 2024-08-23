@@ -8,7 +8,7 @@ This is a team named "G-Rov"s auv (autonomous underwater vehicle) remote operati
 **Base.h:** https://github.com/viyalab/Base100<br>
 
 ## Python Libraries:
-You can upload the Python libraries with using "requirements.txt" file.<br>
+You can upload the Python libraries to your computer with using "requirements.txt" file.<br>
 ```
 cd aruna_codes/aruna_joystick
 pip3 install -r requirements.txt
