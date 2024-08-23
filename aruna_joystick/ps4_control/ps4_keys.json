@@ -1,0 +1,75 @@
+{
+	"buttons":
+	{
+		"X":			0,
+		"Circle":		1,
+		"Square":		2,
+		"Triangle":		3,
+		"Share":		4,
+		"PS":			5,
+		"Options":		6,
+		"L3":			7,
+		"R3":			8,
+		"L1":			9,
+		"R1":			10,
+		"Up Arrow":		11,
+		"Down Arrow":	12,
+		"Left Arrow":	13,
+		"Right Arrow":	14,
+		"Touchpad":		15
+	},
+	"analog_keys":
+	{
+		"L3-X":	0,
+		"L3-Y":	1,
+		"R3-X":	2,
+		"R3-Y":	3,
+		"L2":	4,
+		"R2":	5
+	},
+	"analog_values":
+	{
+		"L2":
+		{
+			"min": 0,
+			"max": 1,
+			"default": -1
+		},
+		"R2":
+		{
+			"min": 0,
+			"max": 1,
+			"default": -1
+		},
+		"L3":
+		{
+			"X":
+			{
+				"right": 0.5,
+				"left": -0.5,
+				"default": 0
+			},
+			"Y":
+			{
+				"down": 0.5,
+				"up": -0.5,
+				"default": 0
+			}
+		},
+		"R3":
+		{
+			"X":
+			{
+				"right": 0.5,
+				"left": -0.5,
+				"default": 0
+			},
+			"Y":
+			{
+				"down": 0.5,
+				"up": -0.5,
+				"default": 0
+			}
+		}
+	}
+}
