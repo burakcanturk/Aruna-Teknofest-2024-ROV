@@ -10,6 +10,7 @@ This is a team named "G-Rov"s auv (autonomous underwater vehicle) remote operati
 ## Python Libraries:
 You can upload the Python libraries with using "requirements.txt" file.<br>
 ```
+cd aruna_codes/aruna_joystick
 pip3 install -r requirements.txt
 ```
 
